@@ -1,5 +1,4 @@
-<img width="666" height="757" alt="image" src="https://github.com/user-attachments/assets/2ff62687-1672-4d7a-864a-f2737345461f" />#  Real-Time Emotion Detection – Flask + OpenCV + ConvNeXt
-
+### Real-Time Emotion Detection – Flask + OpenCV + ConvNeXt
 A real-time facial emotion detection system built using Deep Learning (PyTorch), OpenCV, and Flask.
 The model identifies emotions directly from your webcam feed, draws bounding boxes, and displays the predicted emotion with confidence scores.
 ---
